@@ -1,0 +1,12 @@
+nose==1.3.7
+coverage==4.4.1
+amqp==1.4.9
+idna==2.5
+PyYAML==3.11
+Jinja2==2.8
+librabbitmq==1.6.1
+kombu==3.0.35
+lazy==1.2
+gevent==1.1.2
+retrying==1.3.3
+biloba==1.2.2
